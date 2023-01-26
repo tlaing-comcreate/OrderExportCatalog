@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "name": "BasicCatalogExport",
+  "name": "OrderExportCatalog",
   "description": "Beispielplugin zur Demonstration des Katalogs in Plugins ",
   "namespace": "BasicCatalogExport",
   "pluginIcon": "icon_plugin_xs.png",
